@@ -1,0 +1,7 @@
+/integration/service/inputs/*.xml
+/integration/service/outputs/*.xml
+/images/screenshots/*.png
+/integration/reports/*.html
+/integration/reports/*.json
+/outputs/*.docx
+/inputs/~$ActivationFluxConfiguration.xlsx
